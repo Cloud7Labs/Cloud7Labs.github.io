@@ -5,12 +5,12 @@ html, body {
   position: relative; }
 
 body {
-  background: #1b1b1b;
+  background: #22232C;
   font-family: 'Varela Round', helvetica, arial, sans-serif;
-  color: #ecf0f1; }
+  color: #EFF0F6; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #b69245; }
+  color: #B69245; }
 
 .site_main {
   display: table;
@@ -28,4 +28,4 @@ footer {
   padding-bottom: 1.5em;
   width: 100%; }
   footer .fa {
-    color: #b69245; }
+    color: #B69245; }
