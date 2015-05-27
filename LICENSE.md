@@ -3,7 +3,7 @@
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
-### Section 1: Definitions.
+1. ### Section 1: Definitions.
 a.  Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synced in timed relation with a moving image.
 b.  Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 c.  BY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.
@@ -18,7 +18,7 @@ k. Share means to provide material to the public by any means or process that re
 l. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 m. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
-### Section 2: Scope.
+2. ### Section 2: Scope.
   a. License grant.
     1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
       A.  reproduce and Share the Licensed Material, in whole or in part; and
@@ -36,7 +36,7 @@ m. You means the individual or entity exercising the Licensed Rights under this 
     2.  Patent and trademark rights are not licensed under this Public License.
     3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
-### Section 3: License Conditions.
+3. ### Section 3: License Conditions.
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
   a.  Attribution.
     1.  If You Share the Licensed Material (including in modified form), You must:
