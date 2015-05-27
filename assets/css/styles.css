@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   height: 100%;
   width: 100%; }
-  .site_main .container {
+  .site_main .cell-container {
     position: relative;
     display: table-cell;
     vertical-align: middle; }
